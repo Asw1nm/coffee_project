@@ -1,0 +1,197 @@
+.header{
+    width: 100%;
+    height: 500px;
+    background-image:url(./image/41607.jpg) ;
+    background-size: cover;
+    color: white;
+}   
+.namebar{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(61, 52, 52);
+    position: sticky;
+    top: 0;
+    display: flex;
+}
+.body{
+    width: 100%;
+    height: 1067px;
+    text-align: center;
+    background-color: gray;
+    
+}
+body{
+    margin: 0;;
+}
+.nam1{
+    width: 50%;
+    @import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+    font-family: 'Pushster', cursive;
+}
+.nam2{
+    width: 40%;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+}
+.nam3{
+    width: 10%;
+
+}
+#mhd{
+    margin-top: 10px;
+    padding-left: 40px;
+}
+a{
+    text-decoration: none;
+    padding-inline: 27px;
+    color: white;
+}
+.img1{
+    width: 1519px;
+}
+#hd1{
+    padding-top: 155px;
+    padding-left: 85px;
+    margin: 0;
+    font-size: 50px;
+    @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+    font-family: 'Moon Dance', cursive;
+}
+#hd2{
+    margin: 0;
+    padding-left: 195px;
+    font-size: 50px;
+    @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+    font-family: 'Moon Dance', cursive;
+}
+#para{
+    padding-left:85px;
+    @import url('https://fonts.googleapis.com/css2?family=The+Nautigal&display=swap');
+    font-family: 'The Nautigal', cursive;
+}
+.buttn{
+    margin-left: 186px;
+    border-radius: 15px;
+    padding-inline: 30px;
+    border: 0;
+    font-size: 17px;
+    background-color: red;
+}
+.buttn:hover{
+    background-color: white;
+    color: red;
+}
+.far{
+    padding-top: 12px;
+}
+.fas{
+    padding-bottom: 15px;
+}
+.a1{
+   width: 50%;
+   height: 350px;
+   float: left
+}
+h1{
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+    font-family: 'Oswald', sans-serif;
+    margin-top: 0;
+    padding-top: 15px;
+}
+.img2{
+    width: 100%;
+    height: 350px;
+}
+.a2{
+   width: 50%;
+   height: 350px;
+   float: left;
+}
+.buttn2{
+    padding-inline:25px;
+    background-color: rgb(140 139 134);
+    margin-top: 20px;
+    color: white;
+}
+.buttn2:hover{
+    background-color: black;
+}
+#b1{
+    padding-top: 20px;
+    margin-bottom: 23px;
+}
+.row1{
+    width: 100%;
+    height: 422px;
+}
+.row2{
+     width: 100%;
+     height: 440px;
+}
+.a3{
+    width: 100%;
+    height:328px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.col{
+    width: 23%;
+    height: 350px;
+    background-color: #2d2828;
+    cursor: pointer;
+}
+.img3{
+    width: 100%;
+    height: 170px;
+}
+#c1{
+   margin: 0;
+}
+.col:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#buttn3{
+    background-color: black;
+    color: white;
+    padding-inline: 145px;
+    border: 0;
+    padding-block: 7px;
+    cursor: pointer;
+}
+.row3{
+    width: 100%;
+    height: 400px;
+}
+#login{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    height: 55px;
+}
+.footer{
+    width: 100%;
+    background-color: black;
+}
+.footer-head{
+    width: 100%;
+    height: 50px;
+
+    padding-top: 15px;
+}
+.fab{
+    margin-left: 25px;
+}
+.footer-body{
+    width: 100%;
+    height: 125px;
+
+}
+#j1{
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+    font-family: 'Bebas Neue', cursive;
+}
